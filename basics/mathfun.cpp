@@ -8,6 +8,9 @@ int main(){
   cin >> a  ;
  cout <<"enter 2nd number:";
   cin >> b  ;
+    cout << a<<"^"<<b<<":"<<pow(a,b);
+    cout << a<<"^"<<"2"<<":"<<sqrt(a);
+    cout << "floor of "<<a<<":"<<floor(a);
 
 
 
