@@ -22,3 +22,5 @@ Day2:: Loops
 --n to 1 Natural numbers
 
 -- table 
+
+---
