@@ -11,7 +11,7 @@ Day 1:Startting learning Basics od C++::
 
 ---
 
-Day2:: Loops 
+Day2:: Loops ,if-else,switch
 
 -- factorial 
 
@@ -22,5 +22,13 @@ Day2:: Loops
 --n to 1 Natural numbers
 
 -- table 
+
+--GradeCaluculator
+
+--airthmetic calc
+
+--Max of 3
+
+-- Odd even
 
 ---
