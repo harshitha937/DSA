@@ -10,3 +10,15 @@ Day 1:Startting learning Basics od C++::
 -taking input string from user 
 
 ---
+
+Day2:: Loops 
+
+-- factorial 
+
+--1 to n Natural
+
+--taking user input until input is positive
+
+--n to 1 Natural numbers
+
+-- table 
