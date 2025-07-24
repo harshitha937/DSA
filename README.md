@@ -32,3 +32,32 @@ Day2:: Loops ,if-else,switch
 -- Odd even
 
 ---
+Dya3 :Fuctions:Define,call,return,pass By value/Reference.
+--add two numbers
+
+--sqaure of number.
+
+--find the maximum of two numbers
+
+-- factorial of a number
+
+-- check if a number is prime
+
+--Check if a number is perfect (sum of divisors = number)
+
+--find the sum of digits of a number
+
+
+--to swap two numbers using:
+
+Pass by value
+
+Pass by reference
+
+---
+
+Day 4:
+
+--Function that returns true if number is even, false if odd
+
+--Use loop to check even/odd for numbers 1 to n
